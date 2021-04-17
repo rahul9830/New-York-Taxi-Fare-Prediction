@@ -6,3 +6,5 @@ Group - 12 Team members:
 2. Rahul Rajendra Sidhapurker - 20211401
 3. Nikesh Pothabattula - 20211581
 4. Kumar Souvik Maji - 20211262
+
+The dataset that we used in this project can be found on Kaggle at [https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/data](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/data) .
